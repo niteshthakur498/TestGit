@@ -1,3 +1,3 @@
 # TestGit
 
-hsi repo will be populated with some checks
+This repo will be populated with some checks
